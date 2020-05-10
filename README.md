@@ -1,2 +1,2 @@
 # Basic_System
-Este sistema mostra como é facial aprender c# sem nenhuma dificuldade
+Este sistema mostra como é facil aprender c# sem nenhuma dificuldade
